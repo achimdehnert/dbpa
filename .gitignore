@@ -41,6 +41,9 @@ htmlcov/
 .pytest_cache/
 .ruff_cache/
 
+# PyPI configuration
+.pypirc
+
 # OS
 .DS_Store
 Thumbs.db
